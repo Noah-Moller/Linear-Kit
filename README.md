@@ -3,6 +3,8 @@
 A Swift package for interacting with the [Linear](https://linear.app) API.
 
 LinearKit is a Swift wrapper around Linear's GraphQL API that provides a convenient interface for Swift and SwiftUI applications to integrate with Linear's project management tools.
+## Usage Guide
+[Usage](https://github.com/Noah-Moller/Linear-Kit/blob/main/USAGE.md)
 
 ## Features
 
